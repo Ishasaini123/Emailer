@@ -1,0 +1,142 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    /* width: 600px; */
+    /* background-color: aqua; */
+}
+body{
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: grey;
+}
+.my{
+    background-color: white;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    /* background-color: beige; */
+    
+}
+.one img{
+    width: 73px;
+}
+.one{
+    margin-top: 4%;
+}
+.ek{
+    display: flex;
+    height: 188px;
+    align-items: center;
+    width: 46%;
+    /* justify-content: space-around; */
+    justify-content: s;
+    margin-left: 43px;
+}
+.two{
+    font-size: 39px;
+    color: white;
+    margin-left: 15px;
+}
+.two i{
+    color: #f8a50d;
+}
+.any{
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.three b{
+    font-size: 19px;
+ }
+ .three p{
+    font-size: 14px;
+ }
+.three{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+.via img{
+    width: 115px;
+}
+.whole{
+    height: 242px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.first{
+    width: 23%;
+    /* border: 2px solid; */
+    margin-left: 46px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 23px;
+    background-color: #f8a50d;
+}
+.second{
+    margin-left: 46px;
+    font-size: 24px;
+}
+.third{
+    margin-left: 46px;
+    font-size: 25px;
+}
+.re{
+    width: 150px;
+    padding: 9px;
+    margin-left: 46px;
+    margin-top: 32px;
+    border-radius: 40px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+
+}
+.container{
+    height: 489px;
+    width: 650px;
+    background-image: linear-gradient(to right bottom, #25184f, #452561, #643472, #844383, #a55492, #c25a94, #de6292, #f86c8e, #ff7475, #ff8558, #ff9d37, #ffb700);
+}
+.bo{
+    margin: 3% 6%;
+    line-height: 1.5;
+    font-size: 18px;
+}
+.logo img{
+    width: 434px;
+    margin-left: 30px;
+    padding: 3% 0%;
+}
+.register{
+    width: 184px;
+    padding: 13px;
+    margin-left: 46px;
+    margin-top: 32px;
+    border-radius: 40px;
+    background-color: #f8a50d;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    /* box-shadow: 5px 10px; */
+    box-shadow: 1px 2px 2px 2px grey;
+}
+.end{
+    margin-left: 46px;
+    margin-top: 65px;
+    font-size: 15px;
+}
+.vp{
+    color: grey;
+}
+.footer{
+    height: 90px;
+    background-color: lightgrey;
+    text-align: center;
+    padding-top: 3%;
+    font-size: 15px;
+    color: darkslategrey;
+    margin-top: 4%;
+}
